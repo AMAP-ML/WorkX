@@ -42,8 +42,8 @@ WorkX 是一款本地优先、支持端云协同的 AI 办公助手。下载本�
 
 我们提供了适用于 Apple Silicon 的安装包，支持 macOS 26 及以上版本，欢迎下载体验。
 
-1. **安装应用**　打开 WorkX 的 `.dmg` 安装包，将 WorkX 拖入「应用程序」。
-2. **首次启动**　从「应用程序」打开 WorkX，按提示完成激活。
+1. **安装应用**　[下载 WorkX 0.1.0 安装包](https://github.com/AMAP-ML/WorkX/releases/download/0.1.0/WorkX-0.1.0-mac-arm64.dmg)，打开 `.dmg` 文件，将 WorkX 拖入「应用程序」。
+2. **首次启动**　从「应用程序」打开 WorkX，复制 [0.1.0 发布页](https://github.com/AMAP-ML/WorkX/releases/tag/0.1.0)上的激活码，按提示粘贴即可激活。
 3. **配置模型**　打开「设置 → 模型」，选择本地或云端模型。查看[支持的模型](#支持的模型与接口)。
 
 <div align="center">

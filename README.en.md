@@ -42,8 +42,8 @@ In **Settings → Models**, choose a built-in model or a free subscription, or c
 
 To try WorkX on a Mac with Apple silicon running macOS 26 or later, download the macOS installer.
 
-1. **Install WorkX.** Open the WorkX `.dmg` and drag WorkX into Applications.
-2. **Launch the app.** Open WorkX from Applications and follow the activation prompts.
+1. **Install WorkX.** [Download the WorkX 0.1.0 installer](https://github.com/AMAP-ML/WorkX/releases/download/0.1.0/WorkX-0.1.0-mac-arm64.dmg), open the `.dmg` file, and drag WorkX into Applications.
+2. **Launch the app.** Open WorkX from Applications. Copy the activation code from the [0.1.0 release page](https://github.com/AMAP-ML/WorkX/releases/tag/0.1.0) and paste it when prompted.
 3. **Choose a model.** Open Settings → Models to configure a local or cloud model. See [supported models](#supported-models-and-interfaces).
 
 <div align="center">
